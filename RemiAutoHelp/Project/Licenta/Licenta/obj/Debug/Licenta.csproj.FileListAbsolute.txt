@@ -1,0 +1,61 @@
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\bin\Debug\Licenta.exe.config
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\bin\Debug\Licenta.exe
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\bin\Debug\Licenta.pdb
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.Form1.resources
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.exe
+c:\users\io\documents\visual studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\bin\Debug\Licenta.exe.config
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.exe
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\bin\Debug\Licenta.exe
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\bin\Debug\Licenta.pdb
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.Form1.resources
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+C:\Users\costi.CATALIN-LAPTOP\Desktop\Visual Studio 2017\Projects\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+D:\Licenta\Licenta\bin\Debug\Licenta.exe.config
+D:\Licenta\Licenta\bin\Debug\Licenta.exe
+D:\Licenta\Licenta\bin\Debug\Licenta.pdb
+D:\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+D:\Licenta\Licenta\obj\Debug\Licenta.Form1.resources
+D:\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+D:\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+D:\Licenta\Licenta\obj\Debug\Licenta.exe
+D:\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Debug\Licenta.exe.config
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Debug\Licenta.exe
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Debug\Licenta.pdb
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Debug\Licenta.Form1.resources
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Debug\Licenta.exe
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Debug\Licenta.accdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Debug\Licenta.exe.config
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Debug\Licenta.exe
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Debug\Licenta.accdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Debug\Licenta.exe
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Debug\Licenta.pdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Debug\Licenta.Form1.resources
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\bin\Debug\Licenta.accdb
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\bin\Debug\Licenta.exe.config
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\bin\Debug\Licenta.exe
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\bin\Debug\Licenta.pdb
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\bin\Debug\DGV Printer.dll
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.Contact.resources
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.Form1.resources
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.Inregistrare.resources
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.Recupereaza.resources
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.exe
+C:\Users\sabau\Desktop\last\2017\Licenta\Licenta\obj\Debug\Licenta.pdb

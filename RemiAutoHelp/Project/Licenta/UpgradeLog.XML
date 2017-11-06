@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Licenta">
+</Property><Property Name="Solution File" Value="C:\Users\sabau\Desktop\Licenta\Licenta.sln">
+</Property><Property Name="Date" Value="Sunday, July 16, 2017">
+</Property><Property Name="Time" Value="13:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Licenta.sln" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta.sln">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Licenta.csproj" Description="Project file successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Licenta.csproj">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Form1.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Form1.Designer.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\LicentaDataSet.Designer.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\LicentaDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Program.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Program.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\LicentaDataSet.xsc" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\LicentaDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\LicentaDataSet.xsd" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\LicentaDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\LicentaDataSet.xss" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\LicentaDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Properties\Settings.settings" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\App.config" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\App.config">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Form1.resx" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Properties\Resources.resx" Description="File successfully backed up as C:\Users\sabau\Desktop\Licenta\Backup\Licenta\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Licenta" Source="Licenta\Licenta.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Licenta" Source="Licenta\Licenta.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Licenta.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Licenta.sln" Description="Converted">
+</Event></UpgradeLog>

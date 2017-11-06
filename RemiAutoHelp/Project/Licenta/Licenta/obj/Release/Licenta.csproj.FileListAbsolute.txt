@@ -1,0 +1,49 @@
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Release\Licenta.accdb
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Release\Licenta.exe.config
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Release\Licenta.exe
+C:\Users\sabau\Desktop\Licenta\Licenta\bin\Release\Licenta.pdb
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Release\Licenta.Form1.resources
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Release\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Release\Licenta.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Release\Licenta.exe
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Release\Licenta.pdb
+C:\Users\sabau\Desktop\Licenta\Licenta\obj\Release\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Release\Licenta.accdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Release\Licenta.exe.config
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Release\Licenta.exe
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Release\Licenta.pdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Release\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Release\Licenta.Form1.resources
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Release\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Release\Licenta.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Release\Licenta.exe
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\obj\Release\Licenta.pdb
+C:\Users\sabau\Desktop\backup last\Licenta\Licenta\bin\Release\DGV Printer.dll
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\bin\Release\Licenta.exe.config
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.exe
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.pdb
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.Form1.resources
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\bin\Release\Licenta.accdb
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\bin\Release\Licenta.exe
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\bin\Release\Licenta.pdb
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\bin\Release\DGV Printer.dll
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.Inregistrare.resources
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.Recupereaza.resources
+C:\Users\sabau\Desktop\2010\Licenta\Licenta\obj\Release\Licenta.Contact.resources
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\bin\Release\Licenta.exe.config
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.exe
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.pdb
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\bin\Release\Licenta.accdb
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\bin\Release\Licenta.exe
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\bin\Release\Licenta.pdb
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\bin\Release\DGV Printer.dll
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.Contact.resources
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.Form1.resources
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.Inregistrare.resources
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.Properties.Resources.resources
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.Recupereaza.resources
+C:\Users\sabau\Desktop\last\2010\Licenta\Licenta\obj\Release\Licenta.csproj.GenerateResource.Cache
