@@ -38,3 +38,17 @@ C:\Users\User\Desktop\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojRes
 C:\Users\User\Desktop\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Game.resources
 C:\Users\User\Desktop\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
 C:\Users\User\Desktop\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\bin\Debug\Minesweeper.exe.manifest
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\bin\Debug\Minesweeper.application
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.Game.resources
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.TrustInfo.xml
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.exe.manifest
+C:\Users\sabau\Desktop\Informatics\c-Sharp\Minesweeper Game\Project\minesweeper\obj\Debug\Minesweeper.application
