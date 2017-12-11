@@ -1,0 +1,10 @@
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\bin\Debug\Conversii.exe
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\bin\Debug\Conversii.pdb
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.Properties.Resources.resources
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.csproj.GenerateResource.Cache
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.exe
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.pdb
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.MainMenu.resources
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.Arithmetic.resources
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\obj\x86\Debug\Conversii.Conversions.resources

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e091184d-127d-41a0-bc54-0d505cba4a6d" name="sabau@DESKTOP-JU1GN0A 2017-12-11 23:38:06" runUser="DESKTOP-JU1GN0A\sabau" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="04f519bd-0779-4c26-ba76-d1c6d9f649cf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="sabau_DESKTOP-JU1GN0A 2017-12-11 23_38_06">
+      <DeploymentItem filename="C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\Conversii\bin\Debug\Conversii.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-11T23:38:06.0958416+02:00" queuing="2017-12-11T23:38:06.1075024+02:00" start="2017-12-11T23:38:06.1115067+02:00" finish="2017-12-11T23:38:06.4112304+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="10" executed="10" passed="8" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="DESKTOP-JU1GN0A" outcome="Warning" timestamp="2017-12-11T23:38:06.1075024+02:00">
+        <Text>Deployment is currently disabled. The deployment item 'Conversii.exe' on test 'ApplicationTests.ArithmeticTest.computeAdditionTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="computeAdditionTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="d5d38560-7b0f-1787-7f0b-7f47f3114e52">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="5a4a7ee0-068b-4423-879a-20fa37702a68" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ArithmeticTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="computeAdditionTest" />
+    </UnitTest>
+    <UnitTest name="computeSubtractionTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="bcdcf49c-8a4c-74b3-3564-f47aa9cfbf59">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="d7c9ea5a-f24d-422b-a748-a5c76d7864ad" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ArithmeticTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="computeSubtractionTest" />
+    </UnitTest>
+    <UnitTest name="getCharTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="90802c43-5ea4-b56d-6691-035a0c49992f">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="f823bc97-d83b-489c-9637-bf7e4a9e68a9" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ConversionsTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getCharTest" />
+    </UnitTest>
+    <UnitTest name="substitutionMethodTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="47d8073a-57f8-b49d-9b39-3d946487a063">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="62f1d823-8518-4c41-a1db-4999c0375ecb" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ConversionsTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="substitutionMethodTest" />
+    </UnitTest>
+    <UnitTest name="fromBaseToBaseTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="a0fa8fdb-c5aa-1e00-3fb5-acf0d7a54042">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="7b7bdcd5-d800-4a04-8785-fd8f7d38d3ec" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ConversionsTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="fromBaseToBaseTest" />
+    </UnitTest>
+    <UnitTest name="computeDivisionTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="c87b4183-b021-215b-baae-8aa8fe72f2c7">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="d2cd515f-dc84-4965-8014-5cb5e1f75119" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ArithmeticTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="computeDivisionTest" />
+    </UnitTest>
+    <UnitTest name="computeMultiplicationTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="8dbf2887-d3b8-a404-08fb-68c241a8f0af">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="2eca8067-cc6d-46e1-b047-744b714efa54" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ArithmeticTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="computeMultiplicationTest" />
+    </UnitTest>
+    <UnitTest name="rapidConversionTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="a5f35e8e-293e-68f7-5dcb-1d7e4fe6bae6">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="0dbad603-8d36-4793-8967-aa6c4bb8341f" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ConversionsTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="rapidConversionTest" />
+    </UnitTest>
+    <UnitTest name="getIntTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="8da5f0ff-5363-92fd-496d-3cbfca523cb9">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="6843787a-ecf7-4000-b6b4-1a41ee72675c" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ConversionsTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getIntTest" />
+    </UnitTest>
+    <UnitTest name="reversedStringTest" storage="c:\users\sabau\desktop\conversii logica computationala\conversii\applicationtests\bin\debug\applicationtests.dll" id="89a3f76a-9557-31ab-05ac-c30ddd1bb125">
+      <DeploymentItems>
+        <DeploymentItem filename="Conversii.exe" />
+      </DeploymentItems>
+      <Execution id="2377b9d5-b0af-4e55-85ce-f1d2239fd473" />
+      <TestMethod codeBase="C:/Users/sabau/Desktop/Conversii Logica Computationala/Conversii/ApplicationTests/bin/Debug/ApplicationTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApplicationTests.ArithmeticTest, ApplicationTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="reversedStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="47d8073a-57f8-b49d-9b39-3d946487a063" executionId="62f1d823-8518-4c41-a1db-4999c0375ecb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="89a3f76a-9557-31ab-05ac-c30ddd1bb125" executionId="2377b9d5-b0af-4e55-85ce-f1d2239fd473" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8da5f0ff-5363-92fd-496d-3cbfca523cb9" executionId="6843787a-ecf7-4000-b6b4-1a41ee72675c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8dbf2887-d3b8-a404-08fb-68c241a8f0af" executionId="2eca8067-cc6d-46e1-b047-744b714efa54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90802c43-5ea4-b56d-6691-035a0c49992f" executionId="f823bc97-d83b-489c-9637-bf7e4a9e68a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0fa8fdb-c5aa-1e00-3fb5-acf0d7a54042" executionId="7b7bdcd5-d800-4a04-8785-fd8f7d38d3ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5f35e8e-293e-68f7-5dcb-1d7e4fe6bae6" executionId="0dbad603-8d36-4793-8967-aa6c4bb8341f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bcdcf49c-8a4c-74b3-3564-f47aa9cfbf59" executionId="d7c9ea5a-f24d-422b-a748-a5c76d7864ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c87b4183-b021-215b-baae-8aa8fe72f2c7" executionId="d2cd515f-dc84-4965-8014-5cb5e1f75119" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5d38560-7b0f-1787-7f0b-7f47f3114e52" executionId="5a4a7ee0-068b-4423-879a-20fa37702a68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="62f1d823-8518-4c41-a1db-4999c0375ecb" testId="47d8073a-57f8-b49d-9b39-3d946487a063" testName="substitutionMethodTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0262337" startTime="2017-12-11T23:38:06.1135081+02:00" endTime="2017-12-11T23:38:06.2685859+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62f1d823-8518-4c41-a1db-4999c0375ecb">
+    </UnitTestResult>
+    <UnitTestResult executionId="2377b9d5-b0af-4e55-85ce-f1d2239fd473" testId="89a3f76a-9557-31ab-05ac-c30ddd1bb125" testName="reversedStringTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0150312" startTime="2017-12-11T23:38:06.2695863+02:00" endTime="2017-12-11T23:38:06.2875982+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2377b9d5-b0af-4e55-85ce-f1d2239fd473">
+    </UnitTestResult>
+    <UnitTestResult executionId="6843787a-ecf7-4000-b6b4-1a41ee72675c" testId="8da5f0ff-5363-92fd-496d-3cbfca523cb9" testName="getIntTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0088292" startTime="2017-12-11T23:38:06.2885990+02:00" endTime="2017-12-11T23:38:06.3006081+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6843787a-ecf7-4000-b6b4-1a41ee72675c">
+    </UnitTestResult>
+    <UnitTestResult executionId="2eca8067-cc6d-46e1-b047-744b714efa54" testId="8dbf2887-d3b8-a404-08fb-68c241a8f0af" testName="computeMultiplicationTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0178132" startTime="2017-12-11T23:38:06.3016094+02:00" endTime="2017-12-11T23:38:06.3223738+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2eca8067-cc6d-46e1-b047-744b714efa54">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;8B97523&gt;. Actual:&lt;60A3D67&gt;. </Message>
+          <StackTrace>   at ApplicationTests.ArithmeticTest.computeMultiplicationTest() in C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\ArithmeticTest.cs:line 107
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f823bc97-d83b-489c-9637-bf7e4a9e68a9" testId="90802c43-5ea4-b56d-6691-035a0c49992f" testName="getCharTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0088406" startTime="2017-12-11T23:38:06.3223738+02:00" endTime="2017-12-11T23:38:06.3346556+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f823bc97-d83b-489c-9637-bf7e4a9e68a9">
+    </UnitTestResult>
+    <UnitTestResult executionId="7b7bdcd5-d800-4a04-8785-fd8f7d38d3ec" testId="a0fa8fdb-c5aa-1e00-3fb5-acf0d7a54042" testName="fromBaseToBaseTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0082179" startTime="2017-12-11T23:38:06.3346556+02:00" endTime="2017-12-11T23:38:06.3456468+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7b7bdcd5-d800-4a04-8785-fd8f7d38d3ec">
+    </UnitTestResult>
+    <UnitTestResult executionId="0dbad603-8d36-4793-8967-aa6c4bb8341f" testId="a5f35e8e-293e-68f7-5dcb-1d7e4fe6bae6" testName="rapidConversionTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0084494" startTime="2017-12-11T23:38:06.3466469+02:00" endTime="2017-12-11T23:38:06.3576556+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0dbad603-8d36-4793-8967-aa6c4bb8341f">
+    </UnitTestResult>
+    <UnitTestResult executionId="d7c9ea5a-f24d-422b-a748-a5c76d7864ad" testId="bcdcf49c-8a4c-74b3-3564-f47aa9cfbf59" testName="computeSubtractionTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0145859" startTime="2017-12-11T23:38:06.3586570+02:00" endTime="2017-12-11T23:38:06.3763332+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d7c9ea5a-f24d-422b-a748-a5c76d7864ad">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method ApplicationTests.ArithmeticTest.computeSubtractionTest threw exception: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.</Message>
+          <StackTrace>   at Conversii.Arithmetic_Accessor.computeSubtraction(String x, String digit, Int32 bNum)
+   at ApplicationTests.ArithmeticTest.computeSubtractionTest() in C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\ArithmeticTest.cs:line 125
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d2cd515f-dc84-4965-8014-5cb5e1f75119" testId="c87b4183-b021-215b-baae-8aa8fe72f2c7" testName="computeDivisionTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0099425" startTime="2017-12-11T23:38:06.3773215+02:00" endTime="2017-12-11T23:38:06.3903495+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d2cd515f-dc84-4965-8014-5cb5e1f75119">
+    </UnitTestResult>
+    <UnitTestResult executionId="5a4a7ee0-068b-4423-879a-20fa37702a68" testId="d5d38560-7b0f-1787-7f0b-7f47f3114e52" testName="computeAdditionTest" computerName="DESKTOP-JU1GN0A" duration="00:00:00.0091087" startTime="2017-12-11T23:38:06.3903495+02:00" endTime="2017-12-11T23:38:06.4032250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a4a7ee0-068b-4423-879a-20fa37702a68">
+    </UnitTestResult>
+  </Results>
+</TestRun>

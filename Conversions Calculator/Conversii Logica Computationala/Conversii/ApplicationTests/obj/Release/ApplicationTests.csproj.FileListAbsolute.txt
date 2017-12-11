@@ -1,0 +1,9 @@
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\obj\Release\ApplicationTests.csprojResolveAssemblyReference.cache
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\bin\Release\ApplicationTests.dll
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\bin\Release\ApplicationTests.pdb
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\bin\Release\Conversii.exe
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\bin\Release\Conversii.pdb
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\bin\Release\Conversii_Accessor.exe
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\bin\Release\Conversii_Accessor.pdb
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\obj\Release\ApplicationTests.dll
+C:\Users\sabau\Desktop\Conversii Logica Computationala\Conversii\ApplicationTests\obj\Release\ApplicationTests.pdb
