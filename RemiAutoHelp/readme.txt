@@ -1,10 +1,10 @@
-This is a license project made in rush for a friend in like 3 days (so the code it's not so good organised, but the app works fine). It got grade 8 out of 10.
+The program is in romanian language and its purpose is to manage a company vehicles in order to be offered for a test drive and then to be sold.
+It was done in 3 days.
 
 Test data:
 	Administrator: admin/admin
 	Client: 123/123 
 
-The program is in romanian language and its purpose is to manage a company vehicles in order to be offered for a test drive and then to be sold.
 It has:
 [HOME]
 -login as administrator/client
